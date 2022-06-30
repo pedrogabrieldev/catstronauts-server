@@ -1,0 +1,18 @@
+{
+  "name": "catstronauts-server",
+  "version": "1.0.0",
+  "description": "back-end app for Apollo's lift-off course",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "author": "Pedro Gabriel",
+  "license": "MIT",
+  "private": true
+}
