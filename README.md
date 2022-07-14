@@ -7,4 +7,4 @@ O aplicativo busca uma lista de trilhas de aprendizagem em uma API GraphQL e as 
 
 A API GraphQL foi desenvolvida com Apollo Server utilizando os conceitos de *schema-first design*.
 
-Clique [aqui](catstronauts-client-theta.vercel.app) para visualizar o aplicativo.
+Clique [aqui](https://catstronauts-client-theta.vercel.app) para visualizar o aplicativo.
